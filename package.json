@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "scripts": {
+=======
+    "scripts": {
+>>>>>>> 48951e3abe3d54ba2e552c9aa5342414f8b390e1
     "start":"node index.js"
   },
   "dependencies": {
