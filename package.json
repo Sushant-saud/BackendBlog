@@ -1,17 +1,26 @@
 {
-<<<<<<< HEAD
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-=======
-    "scripts": {
->>>>>>> 48951e3abe3d54ba2e552c9aa5342414f8b390e1
-    "start":"node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sushant-saud/BackendBlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sushant-saud/BackendBlog/issues"
+  },
+  "homepage": "https://github.com/Sushant-saud/BackendBlog#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "mongoose": "^6.7.2",
-    "nodemon": "^2.0.20",
+    "mongoose": "^6.8.0",
     "serve-favicon": "^2.5.0"
   }
 }
